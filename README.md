@@ -46,6 +46,8 @@
 I tried to implement a spawn zombie command, but could not get it to work properly.
 Zombies spawn, but are invisible to the client. (CommandSpawnZombie.cs)
 
+---
+
 **Help:**
 
 If you still need help feel free to contact me on Discord: Johnanater#6836
