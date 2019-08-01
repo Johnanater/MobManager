@@ -23,6 +23,12 @@ namespace MobManager
 
         public void Execute(IRocketPlayer caller, string[] command)
         {
+            if (command.Length < 1)
+            {
+                UnturnedChat.Say(caller, Syntax);
+                return;
+            }
+
             string typeString = command[0].ToLower();
 
             // If player
