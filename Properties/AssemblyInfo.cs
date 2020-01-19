@@ -32,5 +32,5 @@ using MobManager;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion(Main.version)]
-[assembly: AssemblyFileVersion(Main.version)]
+[assembly: AssemblyVersion(Main.Version)]
+[assembly: AssemblyFileVersion(Main.Version)]

@@ -7,13 +7,13 @@ namespace MobManager
     public class Main : RocketPlugin
     {
         public static Main Instance;
-        public const string version = "1.0.0.0";
+        public const string Version = "1.0.1";
 
         protected override void Load()
         {
             Instance = this;
 
-            Logger.Log(string.Format("MobManager by Johnanater, version: {0}", version));
+            Logger.Log($"MobManager by Johnanater, version: {Version}");
         }
 
         protected override void Unload()
