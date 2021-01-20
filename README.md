@@ -50,13 +50,15 @@ Zombies spawn, but are invisible to the client. (CommandSpawnZombie.cs)
 
 **Help:**
 
-If you still need help feel free to contact me on Discord: Johnanater#6836
+If you still need help feel free to contact me on
 
-or on my Discord server: https://discord.gg/VTCzMVG
+my Discord server: https://discord.gg/DpxvCTh
 
 ---	
 
 **Love my work?**
+
+Bitcoin: 1L9kdrW3hJ1abzJAKJwVGNrg3otAEmekY2
 
 Ethereum: 0x43db5a4a44a57f0699c320dbf1131879ec831274
 
